@@ -69,9 +69,6 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://quocthai1508.site" target="blank">
-    <img width="90" height="90" src="images/logo-qthai1508-transparent-bg-192x192.png" alt="qthai1508-blog" />
-  </a>
   <a href="https://facebook.com/qthai1508" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
   </a>
